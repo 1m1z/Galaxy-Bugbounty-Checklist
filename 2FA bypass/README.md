@@ -96,7 +96,7 @@
 ### 14.Session Doesn't Expire After Activating 2FA
 
     login in one account in tow diffrent sessions(browsers), in one session active 2FA for your account, if you,re still      signed to your session in another browser, report it
-    [https://hackerone.com/reports/1927360]
-    [https://hackerone.com/reports/2234736]
+    [[https://hackerone.com/reports/1927360]](https://hackerone.com/reports/1927360)
+    [[https://hackerone.com/reports/2234736]](https://hackerone.com/reports/2234736)
 
 [More good stuff](https://book.hacktricks.xyz/pentesting-web/2fa-bypass)
